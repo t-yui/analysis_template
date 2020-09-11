@@ -50,7 +50,7 @@ analysis_template/
     │   ├── script/          # スクリプト（.py）を格納する
     │   └── test/            # テストコードを格納する
     └── sas/              # SASに関するディレクトリ
-    └── shell             # shell scriptに関するディレクトリ
+    └── shell/            # shell scriptに関するディレクトリ
         ├── exec.sh          # 解析コード実行処理を記述する
         └── setup.sh         # 解析環境セットアップ処理を記述する
 ```
