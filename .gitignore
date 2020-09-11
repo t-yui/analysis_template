@@ -3,4 +3,4 @@
 *.xlsx
 *.sas7bdat
 *.sav
-report/
+reports/
